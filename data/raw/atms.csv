@@ -1,0 +1,303 @@
+ATMID,ATMCode,BranchID,ATMName,City,Locality,ATMType,LocationType,CashCapacity,InstallationDate,Status,LastServiceDate
+1,ATM00001,1,ApexTrust ATM - Janakpuri,Delhi,Janakpuri,Off-site,Branch,5000000,2014-08-14,Under Maintenance,2026-07-11
+2,ATM00002,1,ApexTrust ATM - Connaught Place,Delhi,Connaught Place,On-site,Branch,3000000,2024-04-27,Active,2026-07-11
+3,ATM00003,1,ApexTrust ATM - Rohini,Delhi,Rohini,Off-site,Petrol Pump,4000000,2020-06-21,Active,2026-07-11
+4,ATM00004,1,ApexTrust ATM - Lajpat Nagar,Delhi,Lajpat Nagar,On-site,Branch,2000000,2024-10-11,Active,2026-07-11
+5,ATM00005,2,ApexTrust ATM - Lajpat Nagar,Delhi,Lajpat Nagar,Off-site,Mall,3000000,2018-04-13,Active,2026-07-11
+6,ATM00006,2,ApexTrust ATM - Dwarka,Delhi,Dwarka,On-site,Branch,3000000,2020-07-27,Active,2026-07-11
+7,ATM00007,2,ApexTrust ATM - Janakpuri,Delhi,Janakpuri,Off-site,Petrol Pump,4000000,2025-01-08,Active,2026-07-11
+8,ATM00008,3,ApexTrust ATM - Saket,Delhi,Saket,Off-site,Mall,5000000,2020-04-11,Active,2026-07-11
+9,ATM00009,3,ApexTrust ATM - Rohini,Delhi,Rohini,Off-site,Hospital,4000000,2023-03-01,Active,2026-07-11
+10,ATM00010,3,ApexTrust ATM - Lajpat Nagar,Delhi,Lajpat Nagar,On-site,Market,4000000,2024-01-10,Active,2026-07-11
+11,ATM00011,3,ApexTrust ATM - Pitampura,Delhi,Pitampura,On-site,Market,3000000,2016-01-10,Active,2026-07-11
+12,ATM00012,3,ApexTrust ATM - Karol Bagh,Delhi,Karol Bagh,On-site,Hospital,2000000,2020-09-27,Active,2026-07-11
+13,ATM00013,3,ApexTrust ATM - Connaught Place,Delhi,Connaught Place,Off-site,Market,4000000,2022-11-25,Active,2026-07-11
+14,ATM00014,4,ApexTrust ATM - Vasant Kunj,Delhi,Vasant Kunj,On-site,Branch,2000000,2018-01-17,Active,2026-07-11
+15,ATM00015,4,ApexTrust ATM - Saket,Delhi,Saket,Off-site,Branch,5000000,2019-07-11,Active,2026-07-11
+16,ATM00016,4,ApexTrust ATM - Saket,Delhi,Saket,On-site,Metro Station,2000000,2017-05-27,Out of Service,2026-07-11
+17,ATM00017,5,ApexTrust ATM - Janakpuri,Delhi,Janakpuri,On-site,Mall,3000000,2024-05-28,Active,2026-07-11
+18,ATM00018,5,ApexTrust ATM - Janakpuri,Delhi,Janakpuri,On-site,Hospital,4000000,2017-09-04,Active,2026-07-11
+19,ATM00019,5,ApexTrust ATM - Saket,Delhi,Saket,On-site,Mall,3000000,2022-06-11,Active,2026-07-11
+20,ATM00020,6,ApexTrust ATM - Vasant Kunj,Delhi,Vasant Kunj,Off-site,Branch,3000000,2023-10-15,Active,2026-07-11
+21,ATM00021,6,ApexTrust ATM - Saket,Delhi,Saket,On-site,Branch,4000000,2017-07-08,Active,2026-07-11
+22,ATM00022,6,ApexTrust ATM - Vasant Kunj,Delhi,Vasant Kunj,On-site,Mall,4000000,2022-12-19,Active,2026-07-11
+23,ATM00023,7,ApexTrust ATM - Vasant Kunj,Delhi,Vasant Kunj,On-site,Branch,5000000,2024-02-29,Active,2026-07-11
+24,ATM00024,7,ApexTrust ATM - Janakpuri,Delhi,Janakpuri,Off-site,Branch,2000000,2019-01-29,Active,2026-07-11
+25,ATM00025,7,ApexTrust ATM - Saket,Delhi,Saket,On-site,Branch,2000000,2017-01-05,Active,2026-07-11
+26,ATM00026,7,ApexTrust ATM - Lajpat Nagar,Delhi,Lajpat Nagar,Off-site,Mall,2000000,2023-01-11,Active,2026-07-11
+27,ATM00027,7,ApexTrust ATM - Rohini,Delhi,Rohini,Off-site,Petrol Pump,5000000,2018-04-14,Active,2026-07-11
+28,ATM00028,7,ApexTrust ATM - Connaught Place,Delhi,Connaught Place,On-site,Branch,5000000,2017-11-07,Active,2026-07-11
+29,ATM00029,8,ApexTrust ATM - Connaught Place,Delhi,Connaught Place,On-site,Market,4000000,2024-01-30,Active,2026-07-11
+30,ATM00030,8,ApexTrust ATM - Rohini,Delhi,Rohini,On-site,Hospital,4000000,2018-04-08,Active,2026-07-11
+31,ATM00031,9,ApexTrust ATM - Rohini,Delhi,Rohini,On-site,Market,3000000,2019-12-29,Active,2026-07-11
+32,ATM00032,9,ApexTrust ATM - Connaught Place,Delhi,Connaught Place,On-site,Branch,3000000,2018-11-15,Active,2026-07-11
+33,ATM00033,10,ApexTrust ATM - Saket,Delhi,Saket,Off-site,Market,2000000,2024-12-24,Active,2026-07-11
+34,ATM00034,10,ApexTrust ATM - Rajouri Garden,Delhi,Rajouri Garden,On-site,Market,4000000,2023-03-30,Active,2026-07-11
+35,ATM00035,10,ApexTrust ATM - Pitampura,Delhi,Pitampura,Off-site,Branch,4000000,2017-04-10,Active,2026-07-11
+36,ATM00036,10,ApexTrust ATM - Vasant Kunj,Delhi,Vasant Kunj,On-site,Petrol Pump,3000000,2018-02-27,Active,2026-07-11
+37,ATM00037,11,ApexTrust ATM - Janakpuri,Delhi,Janakpuri,Off-site,Metro Station,3000000,2023-02-09,Active,2026-07-11
+38,ATM00038,11,ApexTrust ATM - Pitampura,Delhi,Pitampura,Off-site,Branch,4000000,2023-07-28,Active,2026-07-11
+39,ATM00039,11,ApexTrust ATM - Rajouri Garden,Delhi,Rajouri Garden,On-site,Market,2000000,2021-04-11,Active,2026-07-11
+40,ATM00040,11,ApexTrust ATM - Karol Bagh,Delhi,Karol Bagh,On-site,Branch,5000000,2024-10-27,Active,2026-07-11
+41,ATM00041,11,ApexTrust ATM - Rajouri Garden,Delhi,Rajouri Garden,Off-site,Metro Station,5000000,2014-10-09,Active,2026-07-11
+42,ATM00042,12,ApexTrust ATM - Karol Bagh,Delhi,Karol Bagh,On-site,Metro Station,4000000,2019-09-17,Active,2026-07-11
+43,ATM00043,12,ApexTrust ATM - Janakpuri,Delhi,Janakpuri,Off-site,Petrol Pump,5000000,2025-02-04,Active,2026-07-11
+44,ATM00044,12,ApexTrust ATM - Janakpuri,Delhi,Janakpuri,Off-site,Hospital,2000000,2014-08-29,Active,2026-07-11
+45,ATM00045,12,ApexTrust ATM - Connaught Place,Delhi,Connaught Place,Off-site,Metro Station,5000000,2021-09-09,Active,2026-07-11
+46,ATM00046,12,ApexTrust ATM - Rajouri Garden,Delhi,Rajouri Garden,On-site,Branch,2000000,2024-09-11,Active,2026-07-11
+47,ATM00047,12,ApexTrust ATM - Karol Bagh,Delhi,Karol Bagh,Off-site,Branch,4000000,2022-05-28,Active,2026-07-11
+48,ATM00048,13,ApexTrust ATM - Pitampura,Delhi,Pitampura,Off-site,Branch,5000000,2022-07-22,Active,2026-07-11
+49,ATM00049,13,ApexTrust ATM - Karol Bagh,Delhi,Karol Bagh,Off-site,Market,2000000,2022-04-26,Active,2026-07-11
+50,ATM00050,13,ApexTrust ATM - Rohini,Delhi,Rohini,On-site,Branch,3000000,2021-02-11,Active,2026-07-11
+51,ATM00051,13,ApexTrust ATM - Saket,Delhi,Saket,Off-site,Metro Station,2000000,2024-12-06,Active,2026-07-11
+52,ATM00052,13,ApexTrust ATM - Rohini,Delhi,Rohini,On-site,Branch,3000000,2020-09-15,Active,2026-07-11
+53,ATM00053,13,ApexTrust ATM - Lajpat Nagar,Delhi,Lajpat Nagar,On-site,Metro Station,5000000,2021-01-01,Active,2026-07-11
+54,ATM00054,14,ApexTrust ATM - Connaught Place,Delhi,Connaught Place,On-site,Branch,5000000,2020-06-10,Active,2026-07-11
+55,ATM00055,14,ApexTrust ATM - Dwarka,Delhi,Dwarka,On-site,Hospital,3000000,2018-07-11,Active,2026-07-11
+56,ATM00056,14,ApexTrust ATM - Dwarka,Delhi,Dwarka,On-site,Branch,3000000,2018-12-24,Active,2026-07-11
+57,ATM00057,14,ApexTrust ATM - Vasant Kunj,Delhi,Vasant Kunj,On-site,Branch,2000000,2018-01-28,Active,2026-07-11
+58,ATM00058,14,ApexTrust ATM - Janakpuri,Delhi,Janakpuri,On-site,Market,3000000,2018-10-20,Active,2026-07-11
+59,ATM00059,15,ApexTrust ATM - Dwarka,Delhi,Dwarka,On-site,Mall,5000000,2017-04-10,Out of Service,2026-07-11
+60,ATM00060,15,ApexTrust ATM - Vasant Kunj,Delhi,Vasant Kunj,Off-site,Branch,3000000,2017-05-06,Active,2026-07-11
+61,ATM00061,15,ApexTrust ATM - Pitampura,Delhi,Pitampura,Off-site,Metro Station,4000000,2017-06-17,Active,2026-07-11
+62,ATM00062,15,ApexTrust ATM - Pitampura,Delhi,Pitampura,On-site,Branch,4000000,2020-01-26,Active,2026-07-11
+63,ATM00063,15,ApexTrust ATM - Janakpuri,Delhi,Janakpuri,On-site,Metro Station,3000000,2025-05-04,Active,2026-07-11
+64,ATM00064,16,ApexTrust ATM - Saket,Delhi,Saket,On-site,Metro Station,5000000,2021-01-26,Active,2026-07-11
+65,ATM00065,16,ApexTrust ATM - Connaught Place,Delhi,Connaught Place,On-site,Hospital,5000000,2015-08-28,Active,2026-07-11
+66,ATM00066,16,ApexTrust ATM - Rohini,Delhi,Rohini,On-site,Branch,5000000,2020-03-05,Active,2026-07-11
+67,ATM00067,17,ApexTrust ATM - Saket,Delhi,Saket,Off-site,Branch,3000000,2015-02-05,Active,2026-07-11
+68,ATM00068,17,ApexTrust ATM - Rohini,Delhi,Rohini,On-site,Petrol Pump,2000000,2019-10-03,Active,2026-07-11
+69,ATM00069,17,ApexTrust ATM - Dwarka,Delhi,Dwarka,On-site,Mall,4000000,2019-12-30,Active,2026-07-11
+70,ATM00070,18,ApexTrust ATM - Connaught Place,Delhi,Connaught Place,On-site,Branch,5000000,2015-02-22,Under Maintenance,2026-07-11
+71,ATM00071,18,ApexTrust ATM - Pitampura,Delhi,Pitampura,On-site,Branch,2000000,2021-06-18,Active,2026-07-11
+72,ATM00072,18,ApexTrust ATM - Lajpat Nagar,Delhi,Lajpat Nagar,Off-site,Branch,3000000,2016-06-28,Active,2026-07-11
+73,ATM00073,18,ApexTrust ATM - Rohini,Delhi,Rohini,On-site,Petrol Pump,2000000,2016-04-22,Active,2026-07-11
+74,ATM00074,18,ApexTrust ATM - Rohini,Delhi,Rohini,Off-site,Market,4000000,2018-11-27,Active,2026-07-11
+75,ATM00075,18,ApexTrust ATM - Karol Bagh,Delhi,Karol Bagh,On-site,Branch,4000000,2019-07-09,Active,2026-07-11
+76,ATM00076,19,ApexTrust ATM - Lajpat Nagar,Delhi,Lajpat Nagar,On-site,Branch,3000000,2018-08-25,Active,2026-07-11
+77,ATM00077,19,ApexTrust ATM - Karol Bagh,Delhi,Karol Bagh,Off-site,Metro Station,3000000,2019-12-11,Active,2026-07-11
+78,ATM00078,19,ApexTrust ATM - Lajpat Nagar,Delhi,Lajpat Nagar,Off-site,Petrol Pump,2000000,2021-02-20,Active,2026-07-11
+79,ATM00079,19,ApexTrust ATM - Rohini,Delhi,Rohini,Off-site,Branch,3000000,2018-04-16,Active,2026-07-11
+80,ATM00080,19,ApexTrust ATM - Karol Bagh,Delhi,Karol Bagh,On-site,Branch,4000000,2016-07-10,Active,2026-07-11
+81,ATM00081,20,ApexTrust ATM - Saket,Delhi,Saket,On-site,Branch,3000000,2017-07-07,Active,2026-07-11
+82,ATM00082,20,ApexTrust ATM - Rajouri Garden,Delhi,Rajouri Garden,On-site,Mall,3000000,2015-02-09,Under Maintenance,2026-07-11
+83,ATM00083,20,ApexTrust ATM - Vasant Kunj,Delhi,Vasant Kunj,On-site,Petrol Pump,5000000,2017-04-12,Active,2026-07-11
+84,ATM00084,20,ApexTrust ATM - Dwarka,Delhi,Dwarka,Off-site,Branch,4000000,2025-03-18,Active,2026-07-11
+85,ATM00085,21,ApexTrust ATM - Rajouri Garden,Delhi,Rajouri Garden,Off-site,Branch,5000000,2024-11-21,Active,2026-07-11
+86,ATM00086,21,ApexTrust ATM - Dwarka,Delhi,Dwarka,On-site,Branch,2000000,2016-03-03,Active,2026-07-11
+87,ATM00087,21,ApexTrust ATM - Janakpuri,Delhi,Janakpuri,On-site,Hospital,5000000,2019-11-06,Active,2026-07-11
+88,ATM00088,21,ApexTrust ATM - Lajpat Nagar,Delhi,Lajpat Nagar,On-site,Branch,4000000,2015-12-07,Active,2026-07-11
+89,ATM00089,21,ApexTrust ATM - Dwarka,Delhi,Dwarka,On-site,Branch,5000000,2019-08-27,Active,2026-07-11
+90,ATM00090,22,ApexTrust ATM - Pitampura,Delhi,Pitampura,On-site,Petrol Pump,4000000,2015-04-13,Active,2026-07-11
+91,ATM00091,22,ApexTrust ATM - Rohini,Delhi,Rohini,Off-site,Petrol Pump,4000000,2014-11-15,Active,2026-07-11
+92,ATM00092,22,ApexTrust ATM - Lajpat Nagar,Delhi,Lajpat Nagar,Off-site,Branch,2000000,2015-02-19,Active,2026-07-11
+93,ATM00093,23,ApexTrust ATM - Dwarka,Delhi,Dwarka,Off-site,Branch,2000000,2022-09-14,Active,2026-07-11
+94,ATM00094,23,ApexTrust ATM - Rohini,Delhi,Rohini,On-site,Branch,3000000,2023-10-18,Active,2026-07-11
+95,ATM00095,23,ApexTrust ATM - Karol Bagh,Delhi,Karol Bagh,On-site,Mall,4000000,2019-08-15,Active,2026-07-11
+96,ATM00096,23,ApexTrust ATM - Connaught Place,Delhi,Connaught Place,On-site,Branch,5000000,2015-03-15,Active,2026-07-11
+97,ATM00097,24,ApexTrust ATM - Saket,Delhi,Saket,Off-site,Branch,4000000,2015-06-11,Under Maintenance,2026-07-11
+98,ATM00098,24,ApexTrust ATM - Pitampura,Delhi,Pitampura,On-site,Branch,3000000,2025-03-26,Active,2026-07-11
+99,ATM00099,24,ApexTrust ATM - Janakpuri,Delhi,Janakpuri,On-site,Branch,3000000,2021-07-23,Active,2026-07-11
+100,ATM00100,24,ApexTrust ATM - Saket,Delhi,Saket,On-site,Mall,3000000,2024-06-26,Active,2026-07-11
+101,ATM00101,25,ApexTrust ATM - Rajouri Garden,Delhi,Rajouri Garden,On-site,Mall,3000000,2018-03-30,Active,2026-07-11
+102,ATM00102,25,ApexTrust ATM - Rajouri Garden,Delhi,Rajouri Garden,On-site,Branch,3000000,2016-07-30,Active,2026-07-11
+103,ATM00103,25,ApexTrust ATM - Saket,Delhi,Saket,Off-site,Market,4000000,2020-03-19,Active,2026-07-11
+104,ATM00104,25,ApexTrust ATM - Rajouri Garden,Delhi,Rajouri Garden,On-site,Mall,4000000,2025-03-28,Active,2026-07-11
+105,ATM00105,25,ApexTrust ATM - Dwarka,Delhi,Dwarka,On-site,Market,5000000,2018-06-29,Active,2026-07-11
+106,ATM00106,25,ApexTrust ATM - Karol Bagh,Delhi,Karol Bagh,On-site,Market,2000000,2019-09-07,Active,2026-07-11
+107,ATM00107,26,ApexTrust ATM - Pitampura,Delhi,Pitampura,Off-site,Mall,4000000,2024-08-10,Active,2026-07-11
+108,ATM00108,26,ApexTrust ATM - Karol Bagh,Delhi,Karol Bagh,On-site,Metro Station,2000000,2016-01-20,Active,2026-07-11
+109,ATM00109,26,ApexTrust ATM - Janakpuri,Delhi,Janakpuri,On-site,Market,5000000,2017-01-21,Active,2026-07-11
+110,ATM00110,27,ApexTrust ATM - Janakpuri,Delhi,Janakpuri,Off-site,Mall,3000000,2025-03-03,Active,2026-07-11
+111,ATM00111,27,ApexTrust ATM - Lajpat Nagar,Delhi,Lajpat Nagar,On-site,Branch,3000000,2015-03-12,Under Maintenance,2026-07-11
+112,ATM00112,27,ApexTrust ATM - Dwarka,Delhi,Dwarka,On-site,Branch,5000000,2021-01-22,Active,2026-07-11
+113,ATM00113,27,ApexTrust ATM - Saket,Delhi,Saket,Off-site,Branch,3000000,2021-07-18,Active,2026-07-11
+114,ATM00114,27,ApexTrust ATM - Pitampura,Delhi,Pitampura,On-site,Hospital,2000000,2023-12-18,Active,2026-07-11
+115,ATM00115,27,ApexTrust ATM - Karol Bagh,Delhi,Karol Bagh,Off-site,Branch,5000000,2019-06-17,Active,2026-07-11
+116,ATM00116,28,ApexTrust ATM - Karol Bagh,Delhi,Karol Bagh,On-site,Branch,2000000,2015-01-01,Under Maintenance,2026-07-11
+117,ATM00117,28,ApexTrust ATM - Connaught Place,Delhi,Connaught Place,On-site,Branch,5000000,2017-05-18,Under Maintenance,2026-07-11
+118,ATM00118,28,ApexTrust ATM - Rohini,Delhi,Rohini,Off-site,Branch,2000000,2019-04-29,Active,2026-07-11
+119,ATM00119,29,ApexTrust ATM - Rajouri Garden,Delhi,Rajouri Garden,On-site,Branch,5000000,2020-10-04,Active,2026-07-11
+120,ATM00120,29,ApexTrust ATM - Karol Bagh,Delhi,Karol Bagh,On-site,Metro Station,3000000,2020-02-27,Active,2026-07-11
+121,ATM00121,29,ApexTrust ATM - Lajpat Nagar,Delhi,Lajpat Nagar,On-site,Branch,3000000,2024-04-23,Active,2026-07-11
+122,ATM00122,29,ApexTrust ATM - Lajpat Nagar,Delhi,Lajpat Nagar,On-site,Branch,5000000,2015-05-12,Active,2026-07-11
+123,ATM00123,30,ApexTrust ATM - Connaught Place,Delhi,Connaught Place,On-site,Branch,3000000,2021-08-20,Active,2026-07-11
+124,ATM00124,30,ApexTrust ATM - Connaught Place,Delhi,Connaught Place,On-site,Metro Station,2000000,2015-05-17,Active,2026-07-11
+125,ATM00125,30,ApexTrust ATM - Saket,Delhi,Saket,On-site,Branch,3000000,2021-12-22,Active,2026-07-11
+126,ATM00126,30,ApexTrust ATM - Saket,Delhi,Saket,On-site,Branch,5000000,2016-01-17,Active,2026-07-11
+127,ATM00127,30,ApexTrust ATM - Rohini,Delhi,Rohini,On-site,Market,2000000,2021-10-11,Active,2026-07-11
+128,ATM00128,31,ApexTrust ATM - Karol Bagh,Delhi,Karol Bagh,On-site,Branch,3000000,2019-01-18,Active,2026-07-11
+129,ATM00129,31,ApexTrust ATM - Saket,Delhi,Saket,On-site,Branch,4000000,2020-06-19,Active,2026-07-11
+130,ATM00130,31,ApexTrust ATM - Vasant Kunj,Delhi,Vasant Kunj,On-site,Mall,5000000,2024-06-08,Active,2026-07-11
+131,ATM00131,31,ApexTrust ATM - Rohini,Delhi,Rohini,On-site,Branch,2000000,2020-03-20,Out of Service,2026-07-11
+132,ATM00132,31,ApexTrust ATM - Saket,Delhi,Saket,Off-site,Branch,5000000,2016-06-15,Active,2026-07-11
+133,ATM00133,31,ApexTrust ATM - Pitampura,Delhi,Pitampura,On-site,Branch,5000000,2025-02-14,Active,2026-07-11
+134,ATM00134,32,ApexTrust ATM - Saket,Delhi,Saket,On-site,Branch,2000000,2021-12-21,Active,2026-07-11
+135,ATM00135,32,ApexTrust ATM - Rohini,Delhi,Rohini,On-site,Metro Station,4000000,2015-04-12,Active,2026-07-11
+136,ATM00136,33,ApexTrust ATM - Karol Bagh,Delhi,Karol Bagh,Off-site,Branch,3000000,2024-07-16,Active,2026-07-11
+137,ATM00137,33,ApexTrust ATM - Pitampura,Delhi,Pitampura,On-site,Mall,2000000,2022-05-09,Active,2026-07-11
+138,ATM00138,34,ApexTrust ATM - Connaught Place,Delhi,Connaught Place,Off-site,Branch,2000000,2018-08-04,Active,2026-07-11
+139,ATM00139,34,ApexTrust ATM - Rohini,Delhi,Rohini,On-site,Branch,3000000,2015-10-01,Active,2026-07-11
+140,ATM00140,35,ApexTrust ATM - Rajouri Garden,Delhi,Rajouri Garden,Off-site,Branch,5000000,2018-07-05,Active,2026-07-11
+141,ATM00141,35,ApexTrust ATM - Rajouri Garden,Delhi,Rajouri Garden,Off-site,Branch,5000000,2018-12-29,Active,2026-07-11
+142,ATM00142,36,ApexTrust ATM - Sector 137,Noida,Sector 137,On-site,Market,4000000,2025-06-06,Active,2026-07-11
+143,ATM00143,36,ApexTrust ATM - Sector 62,Noida,Sector 62,On-site,Mall,5000000,2016-02-10,Active,2026-07-11
+144,ATM00144,36,ApexTrust ATM - Pari Chowk,Noida,Pari Chowk,On-site,Branch,5000000,2014-12-16,Active,2026-07-11
+145,ATM00145,36,ApexTrust ATM - Sector 62,Noida,Sector 62,On-site,Metro Station,4000000,2014-12-11,Active,2026-07-11
+146,ATM00146,36,ApexTrust ATM - Sector 18,Noida,Sector 18,On-site,Branch,3000000,2019-02-13,Active,2026-07-11
+147,ATM00147,36,ApexTrust ATM - Sector 76,Noida,Sector 76,On-site,Branch,2000000,2017-04-21,Active,2026-07-11
+148,ATM00148,37,ApexTrust ATM - Sector 18,Noida,Sector 18,Off-site,Branch,3000000,2019-04-16,Active,2026-07-11
+149,ATM00149,37,ApexTrust ATM - Sector 137,Noida,Sector 137,On-site,Hospital,2000000,2016-10-13,Active,2026-07-11
+150,ATM00150,37,ApexTrust ATM - Sector 18,Noida,Sector 18,On-site,Branch,4000000,2020-11-19,Active,2026-07-11
+151,ATM00151,37,ApexTrust ATM - Sector 62,Noida,Sector 62,On-site,Market,5000000,2019-08-20,Active,2026-07-11
+152,ATM00152,37,ApexTrust ATM - Sector 137,Noida,Sector 137,Off-site,Metro Station,4000000,2025-05-03,Active,2026-07-11
+153,ATM00153,37,ApexTrust ATM - Pari Chowk,Noida,Pari Chowk,On-site,Market,2000000,2018-01-22,Active,2026-07-11
+154,ATM00154,38,ApexTrust ATM - Sector 76,Noida,Sector 76,On-site,Branch,5000000,2022-03-04,Active,2026-07-11
+155,ATM00155,38,ApexTrust ATM - Sector 62,Noida,Sector 62,On-site,Branch,5000000,2018-03-08,Active,2026-07-11
+156,ATM00156,38,ApexTrust ATM - Sector 18,Noida,Sector 18,On-site,Mall,4000000,2017-09-24,Active,2026-07-11
+157,ATM00157,38,ApexTrust ATM - Sector 76,Noida,Sector 76,Off-site,Hospital,5000000,2023-10-05,Active,2026-07-11
+158,ATM00158,38,ApexTrust ATM - Sector 62,Noida,Sector 62,On-site,Mall,4000000,2014-10-31,Active,2026-07-11
+159,ATM00159,39,ApexTrust ATM - Sector 62,Noida,Sector 62,On-site,Mall,3000000,2022-04-22,Out of Service,2026-07-11
+160,ATM00160,39,ApexTrust ATM - Pari Chowk,Noida,Pari Chowk,On-site,Mall,5000000,2023-12-15,Active,2026-07-11
+161,ATM00161,39,ApexTrust ATM - Sector 137,Noida,Sector 137,On-site,Branch,2000000,2025-03-04,Active,2026-07-11
+162,ATM00162,39,ApexTrust ATM - Pari Chowk,Noida,Pari Chowk,On-site,Metro Station,3000000,2017-04-14,Active,2026-07-11
+163,ATM00163,39,ApexTrust ATM - Sector 62,Noida,Sector 62,On-site,Branch,3000000,2019-12-09,Active,2026-07-11
+164,ATM00164,40,ApexTrust ATM - Sector 18,Noida,Sector 18,On-site,Metro Station,5000000,2023-01-17,Active,2026-07-11
+165,ATM00165,40,ApexTrust ATM - Sector 137,Noida,Sector 137,Off-site,Mall,3000000,2014-11-23,Active,2026-07-11
+166,ATM00166,40,ApexTrust ATM - Sector 18,Noida,Sector 18,On-site,Branch,2000000,2025-01-13,Active,2026-07-11
+167,ATM00167,40,ApexTrust ATM - Sector 62,Noida,Sector 62,On-site,Market,3000000,2020-09-25,Active,2026-07-11
+168,ATM00168,40,ApexTrust ATM - Sector 18,Noida,Sector 18,On-site,Mall,3000000,2020-05-23,Active,2026-07-11
+169,ATM00169,41,ApexTrust ATM - Sector 137,Noida,Sector 137,On-site,Branch,4000000,2016-12-04,Active,2026-07-11
+170,ATM00170,41,ApexTrust ATM - Pari Chowk,Noida,Pari Chowk,On-site,Mall,2000000,2017-04-12,Under Maintenance,2026-07-11
+171,ATM00171,41,ApexTrust ATM - Sector 137,Noida,Sector 137,On-site,Branch,5000000,2021-05-11,Active,2026-07-11
+172,ATM00172,41,ApexTrust ATM - Pari Chowk,Noida,Pari Chowk,On-site,Branch,3000000,2021-02-19,Active,2026-07-11
+173,ATM00173,42,ApexTrust ATM - Sector 137,Noida,Sector 137,On-site,Branch,3000000,2021-02-21,Active,2026-07-11
+174,ATM00174,42,ApexTrust ATM - Sector 76,Noida,Sector 76,On-site,Market,4000000,2019-11-17,Active,2026-07-11
+175,ATM00175,42,ApexTrust ATM - Sector 76,Noida,Sector 76,On-site,Market,5000000,2023-03-25,Active,2026-07-11
+176,ATM00176,42,ApexTrust ATM - Sector 137,Noida,Sector 137,On-site,Branch,3000000,2022-12-09,Active,2026-07-11
+177,ATM00177,42,ApexTrust ATM - Sector 18,Noida,Sector 18,Off-site,Branch,5000000,2017-06-11,Active,2026-07-11
+178,ATM00178,42,ApexTrust ATM - Sector 137,Noida,Sector 137,On-site,Branch,2000000,2017-01-12,Active,2026-07-11
+179,ATM00179,43,ApexTrust ATM - Pari Chowk,Noida,Pari Chowk,On-site,Branch,3000000,2019-01-15,Active,2026-07-11
+180,ATM00180,43,ApexTrust ATM - Sector 18,Noida,Sector 18,Off-site,Branch,2000000,2019-09-12,Active,2026-07-11
+181,ATM00181,44,ApexTrust ATM - Sector 18,Noida,Sector 18,On-site,Branch,3000000,2021-09-04,Active,2026-07-11
+182,ATM00182,44,ApexTrust ATM - Sector 62,Noida,Sector 62,Off-site,Branch,2000000,2022-05-08,Active,2026-07-11
+183,ATM00183,44,ApexTrust ATM - Sector 62,Noida,Sector 62,Off-site,Branch,2000000,2022-03-24,Active,2026-07-11
+184,ATM00184,44,ApexTrust ATM - Sector 137,Noida,Sector 137,On-site,Branch,2000000,2014-10-15,Active,2026-07-11
+185,ATM00185,44,ApexTrust ATM - Pari Chowk,Noida,Pari Chowk,On-site,Branch,2000000,2016-12-16,Active,2026-07-11
+186,ATM00186,45,ApexTrust ATM - Sector 62,Noida,Sector 62,On-site,Branch,4000000,2015-01-17,Active,2026-07-11
+187,ATM00187,45,ApexTrust ATM - Sector 137,Noida,Sector 137,On-site,Branch,2000000,2021-04-24,Active,2026-07-11
+188,ATM00188,45,ApexTrust ATM - Sector 62,Noida,Sector 62,Off-site,Hospital,2000000,2015-08-20,Active,2026-07-11
+189,ATM00189,46,ApexTrust ATM - Sector 137,Noida,Sector 137,On-site,Branch,4000000,2014-11-24,Active,2026-07-11
+190,ATM00190,46,ApexTrust ATM - Pari Chowk,Noida,Pari Chowk,On-site,Branch,4000000,2025-03-14,Active,2026-07-11
+191,ATM00191,46,ApexTrust ATM - Sector 76,Noida,Sector 76,On-site,Mall,4000000,2024-02-15,Out of Service,2026-07-11
+192,ATM00192,46,ApexTrust ATM - Sector 62,Noida,Sector 62,On-site,Branch,5000000,2018-02-10,Active,2026-07-11
+193,ATM00193,46,ApexTrust ATM - Sector 18,Noida,Sector 18,On-site,Mall,2000000,2022-08-31,Active,2026-07-11
+194,ATM00194,47,ApexTrust ATM - Sector 18,Noida,Sector 18,On-site,Metro Station,5000000,2019-10-19,Active,2026-07-11
+195,ATM00195,47,ApexTrust ATM - Sector 137,Noida,Sector 137,Off-site,Mall,5000000,2022-07-22,Active,2026-07-11
+196,ATM00196,47,ApexTrust ATM - Sector 137,Noida,Sector 137,On-site,Branch,3000000,2022-05-26,Active,2026-07-11
+197,ATM00197,47,ApexTrust ATM - Pari Chowk,Noida,Pari Chowk,Off-site,Mall,4000000,2018-11-22,Active,2026-07-11
+198,ATM00198,47,ApexTrust ATM - Sector 76,Noida,Sector 76,On-site,Mall,5000000,2014-10-27,Active,2026-07-11
+199,ATM00199,47,ApexTrust ATM - Sector 62,Noida,Sector 62,On-site,Mall,4000000,2022-08-19,Active,2026-07-11
+200,ATM00200,48,ApexTrust ATM - Sector 62,Noida,Sector 62,Off-site,Branch,3000000,2019-01-13,Active,2026-07-11
+201,ATM00201,48,ApexTrust ATM - Sector 62,Noida,Sector 62,On-site,Branch,2000000,2024-12-03,Active,2026-07-11
+202,ATM00202,48,ApexTrust ATM - Sector 62,Noida,Sector 62,On-site,Branch,2000000,2016-11-04,Active,2026-07-11
+203,ATM00203,48,ApexTrust ATM - Sector 62,Noida,Sector 62,On-site,Petrol Pump,5000000,2016-03-05,Active,2026-07-11
+204,ATM00204,48,ApexTrust ATM - Sector 76,Noida,Sector 76,On-site,Branch,3000000,2018-04-22,Active,2026-07-11
+205,ATM00205,49,ApexTrust ATM - Sector 137,Noida,Sector 137,Off-site,Metro Station,2000000,2015-07-11,Active,2026-07-11
+206,ATM00206,49,ApexTrust ATM - Sector 137,Noida,Sector 137,Off-site,Branch,2000000,2025-06-04,Active,2026-07-11
+207,ATM00207,49,ApexTrust ATM - Pari Chowk,Noida,Pari Chowk,On-site,Mall,4000000,2017-09-07,Out of Service,2026-07-11
+208,ATM00208,49,ApexTrust ATM - Sector 137,Noida,Sector 137,On-site,Branch,4000000,2022-12-03,Active,2026-07-11
+209,ATM00209,50,ApexTrust ATM - Sohna Road,Gurugram,Sohna Road,On-site,Market,3000000,2025-02-07,Active,2026-07-11
+210,ATM00210,50,ApexTrust ATM - Sohna Road,Gurugram,Sohna Road,On-site,Branch,5000000,2016-01-31,Active,2026-07-11
+211,ATM00211,50,ApexTrust ATM - MG Road,Gurugram,MG Road,Off-site,Market,5000000,2019-06-27,Active,2026-07-11
+212,ATM00212,50,ApexTrust ATM - Sohna Road,Gurugram,Sohna Road,On-site,Metro Station,5000000,2018-11-07,Active,2026-07-11
+213,ATM00213,50,ApexTrust ATM - Sohna Road,Gurugram,Sohna Road,Off-site,Branch,4000000,2019-08-20,Active,2026-07-11
+214,ATM00214,51,ApexTrust ATM - Sector 29,Gurugram,Sector 29,Off-site,Metro Station,4000000,2023-07-24,Active,2026-07-11
+215,ATM00215,51,ApexTrust ATM - Sector 29,Gurugram,Sector 29,On-site,Mall,4000000,2022-07-13,Active,2026-07-11
+216,ATM00216,51,ApexTrust ATM - Golf Course Road,Gurugram,Golf Course Road,On-site,Branch,5000000,2016-09-03,Active,2026-07-11
+217,ATM00217,51,ApexTrust ATM - Cyber City,Gurugram,Cyber City,Off-site,Metro Station,4000000,2016-01-01,Active,2026-07-11
+218,ATM00218,52,ApexTrust ATM - Sohna Road,Gurugram,Sohna Road,On-site,Branch,5000000,2019-01-02,Active,2026-07-11
+219,ATM00219,52,ApexTrust ATM - MG Road,Gurugram,MG Road,Off-site,Hospital,2000000,2016-09-14,Active,2026-07-11
+220,ATM00220,52,ApexTrust ATM - Sohna Road,Gurugram,Sohna Road,Off-site,Branch,5000000,2022-06-23,Active,2026-07-11
+221,ATM00221,52,ApexTrust ATM - MG Road,Gurugram,MG Road,On-site,Hospital,5000000,2017-07-25,Active,2026-07-11
+222,ATM00222,53,ApexTrust ATM - Sector 29,Gurugram,Sector 29,Off-site,Branch,3000000,2022-10-01,Active,2026-07-11
+223,ATM00223,53,ApexTrust ATM - Cyber City,Gurugram,Cyber City,On-site,Branch,2000000,2022-02-06,Active,2026-07-11
+224,ATM00224,53,ApexTrust ATM - Golf Course Road,Gurugram,Golf Course Road,On-site,Market,5000000,2022-11-14,Active,2026-07-11
+225,ATM00225,54,ApexTrust ATM - MG Road,Gurugram,MG Road,On-site,Metro Station,4000000,2020-01-11,Active,2026-07-11
+226,ATM00226,54,ApexTrust ATM - MG Road,Gurugram,MG Road,On-site,Petrol Pump,4000000,2018-08-13,Under Maintenance,2026-07-11
+227,ATM00227,55,ApexTrust ATM - Golf Course Road,Gurugram,Golf Course Road,Off-site,Metro Station,2000000,2020-04-06,Active,2026-07-11
+228,ATM00228,55,ApexTrust ATM - Sohna Road,Gurugram,Sohna Road,On-site,Branch,3000000,2023-04-23,Active,2026-07-11
+229,ATM00229,55,ApexTrust ATM - Sector 29,Gurugram,Sector 29,On-site,Branch,3000000,2022-04-02,Active,2026-07-11
+230,ATM00230,56,ApexTrust ATM - Cyber City,Gurugram,Cyber City,On-site,Branch,2000000,2018-05-08,Active,2026-07-11
+231,ATM00231,56,ApexTrust ATM - Cyber City,Gurugram,Cyber City,On-site,Branch,3000000,2016-10-30,Active,2026-07-11
+232,ATM00232,57,ApexTrust ATM - Golf Course Road,Gurugram,Golf Course Road,On-site,Market,5000000,2021-12-03,Active,2026-07-11
+233,ATM00233,57,ApexTrust ATM - Sohna Road,Gurugram,Sohna Road,On-site,Branch,5000000,2017-04-19,Active,2026-07-11
+234,ATM00234,58,ApexTrust ATM - Cyber City,Gurugram,Cyber City,On-site,Market,4000000,2024-01-08,Active,2026-07-11
+235,ATM00235,58,ApexTrust ATM - Cyber City,Gurugram,Cyber City,Off-site,Branch,5000000,2019-09-20,Active,2026-07-11
+236,ATM00236,59,ApexTrust ATM - MG Road,Gurugram,MG Road,On-site,Branch,3000000,2024-07-21,Active,2026-07-11
+237,ATM00237,59,ApexTrust ATM - Sohna Road,Gurugram,Sohna Road,Off-site,Branch,2000000,2025-05-07,Active,2026-07-11
+238,ATM00238,60,ApexTrust ATM - Sector 29,Gurugram,Sector 29,On-site,Branch,4000000,2023-03-30,Active,2026-07-11
+239,ATM00239,60,ApexTrust ATM - Cyber City,Gurugram,Cyber City,On-site,Hospital,5000000,2014-10-18,Active,2026-07-11
+240,ATM00240,60,ApexTrust ATM - Golf Course Road,Gurugram,Golf Course Road,Off-site,Mall,2000000,2015-05-19,Active,2026-07-11
+241,ATM00241,61,ApexTrust ATM - Sector 29,Gurugram,Sector 29,Off-site,Hospital,2000000,2014-09-07,Active,2026-07-11
+242,ATM00242,61,ApexTrust ATM - MG Road,Gurugram,MG Road,On-site,Branch,2000000,2021-08-08,Active,2026-07-11
+243,ATM00243,61,ApexTrust ATM - Sohna Road,Gurugram,Sohna Road,On-site,Mall,3000000,2023-12-01,Active,2026-07-11
+244,ATM00244,61,ApexTrust ATM - Sohna Road,Gurugram,Sohna Road,On-site,Mall,5000000,2019-03-23,Active,2026-07-11
+245,ATM00245,62,ApexTrust ATM - Cyber City,Gurugram,Cyber City,On-site,Hospital,3000000,2016-02-26,Active,2026-07-11
+246,ATM00246,62,ApexTrust ATM - Golf Course Road,Gurugram,Golf Course Road,On-site,Branch,4000000,2019-10-10,Active,2026-07-11
+247,ATM00247,62,ApexTrust ATM - MG Road,Gurugram,MG Road,Off-site,Branch,2000000,2018-05-19,Active,2026-07-11
+248,ATM00248,62,ApexTrust ATM - Sector 29,Gurugram,Sector 29,On-site,Mall,5000000,2019-05-28,Active,2026-07-11
+249,ATM00249,62,ApexTrust ATM - Sector 29,Gurugram,Sector 29,Off-site,Branch,2000000,2025-07-10,Active,2026-07-11
+250,ATM00250,62,ApexTrust ATM - Sohna Road,Gurugram,Sohna Road,On-site,Branch,4000000,2018-08-20,Active,2026-07-11
+251,ATM00251,63,ApexTrust ATM - Sohna Road,Gurugram,Sohna Road,On-site,Hospital,3000000,2016-01-30,Active,2026-07-11
+252,ATM00252,63,ApexTrust ATM - Sohna Road,Gurugram,Sohna Road,On-site,Metro Station,3000000,2023-08-16,Active,2026-07-11
+253,ATM00253,63,ApexTrust ATM - Sohna Road,Gurugram,Sohna Road,On-site,Branch,5000000,2020-09-19,Active,2026-07-11
+254,ATM00254,64,ApexTrust ATM - Raj Nagar,Ghaziabad,Raj Nagar,On-site,Branch,3000000,2022-03-05,Active,2026-07-11
+255,ATM00255,64,ApexTrust ATM - Indirapuram,Ghaziabad,Indirapuram,On-site,Branch,2000000,2024-04-27,Active,2026-07-11
+256,ATM00256,64,ApexTrust ATM - Indirapuram,Ghaziabad,Indirapuram,On-site,Branch,5000000,2021-06-29,Active,2026-07-11
+257,ATM00257,64,ApexTrust ATM - Indirapuram,Ghaziabad,Indirapuram,Off-site,Branch,2000000,2023-02-27,Active,2026-07-11
+258,ATM00258,64,ApexTrust ATM - Kaushambi,Ghaziabad,Kaushambi,Off-site,Branch,2000000,2016-05-11,Active,2026-07-11
+259,ATM00259,65,ApexTrust ATM - Raj Nagar,Ghaziabad,Raj Nagar,Off-site,Market,3000000,2019-12-07,Active,2026-07-11
+260,ATM00260,65,ApexTrust ATM - Indirapuram,Ghaziabad,Indirapuram,On-site,Market,4000000,2021-01-22,Active,2026-07-11
+261,ATM00261,65,ApexTrust ATM - Vaishali,Ghaziabad,Vaishali,On-site,Mall,5000000,2020-05-15,Active,2026-07-11
+262,ATM00262,65,ApexTrust ATM - Kaushambi,Ghaziabad,Kaushambi,Off-site,Mall,4000000,2024-04-07,Active,2026-07-11
+263,ATM00263,65,ApexTrust ATM - Indirapuram,Ghaziabad,Indirapuram,On-site,Petrol Pump,3000000,2022-10-25,Active,2026-07-11
+264,ATM00264,65,ApexTrust ATM - Indirapuram,Ghaziabad,Indirapuram,On-site,Metro Station,5000000,2016-01-29,Active,2026-07-11
+265,ATM00265,66,ApexTrust ATM - Kaushambi,Ghaziabad,Kaushambi,Off-site,Hospital,3000000,2015-06-27,Active,2026-07-11
+266,ATM00266,66,ApexTrust ATM - Vaishali,Ghaziabad,Vaishali,On-site,Market,4000000,2018-12-23,Active,2026-07-11
+267,ATM00267,66,ApexTrust ATM - Kaushambi,Ghaziabad,Kaushambi,Off-site,Metro Station,3000000,2020-10-10,Active,2026-07-11
+268,ATM00268,66,ApexTrust ATM - Raj Nagar,Ghaziabad,Raj Nagar,On-site,Mall,2000000,2024-03-01,Active,2026-07-11
+269,ATM00269,66,ApexTrust ATM - Indirapuram,Ghaziabad,Indirapuram,On-site,Mall,3000000,2021-08-13,Active,2026-07-11
+270,ATM00270,67,ApexTrust ATM - Indirapuram,Ghaziabad,Indirapuram,Off-site,Branch,2000000,2022-01-26,Active,2026-07-11
+271,ATM00271,67,ApexTrust ATM - Kaushambi,Ghaziabad,Kaushambi,On-site,Metro Station,3000000,2021-08-12,Active,2026-07-11
+272,ATM00272,67,ApexTrust ATM - Raj Nagar,Ghaziabad,Raj Nagar,On-site,Metro Station,2000000,2023-03-14,Active,2026-07-11
+273,ATM00273,68,ApexTrust ATM - Raj Nagar,Ghaziabad,Raj Nagar,On-site,Branch,3000000,2014-07-22,Active,2026-07-11
+274,ATM00274,68,ApexTrust ATM - Raj Nagar,Ghaziabad,Raj Nagar,Off-site,Metro Station,3000000,2024-01-20,Active,2026-07-11
+275,ATM00275,68,ApexTrust ATM - Raj Nagar,Ghaziabad,Raj Nagar,Off-site,Market,4000000,2024-09-15,Active,2026-07-11
+276,ATM00276,68,ApexTrust ATM - Indirapuram,Ghaziabad,Indirapuram,On-site,Branch,2000000,2022-03-16,Active,2026-07-11
+277,ATM00277,69,ApexTrust ATM - Indirapuram,Ghaziabad,Indirapuram,On-site,Branch,2000000,2017-05-04,Active,2026-07-11
+278,ATM00278,69,ApexTrust ATM - Raj Nagar,Ghaziabad,Raj Nagar,Off-site,Mall,4000000,2016-08-26,Out of Service,2026-07-11
+279,ATM00279,69,ApexTrust ATM - Vaishali,Ghaziabad,Vaishali,On-site,Branch,5000000,2022-04-06,Active,2026-07-11
+280,ATM00280,69,ApexTrust ATM - Indirapuram,Ghaziabad,Indirapuram,On-site,Branch,3000000,2015-02-10,Active,2026-07-11
+281,ATM00281,70,ApexTrust ATM - Ballabhgarh,Faridabad,Ballabhgarh,Off-site,Hospital,2000000,2020-09-26,Active,2026-07-11
+282,ATM00282,70,ApexTrust ATM - Sector 21C,Faridabad,Sector 21C,On-site,Market,3000000,2014-07-20,Active,2026-07-11
+283,ATM00283,70,ApexTrust ATM - Ballabhgarh,Faridabad,Ballabhgarh,Off-site,Mall,2000000,2023-05-11,Active,2026-07-11
+284,ATM00284,70,ApexTrust ATM - Ballabhgarh,Faridabad,Ballabhgarh,On-site,Branch,3000000,2020-01-28,Active,2026-07-11
+285,ATM00285,70,ApexTrust ATM - NIT,Faridabad,NIT,Off-site,Hospital,3000000,2017-10-31,Out of Service,2026-07-11
+286,ATM00286,70,ApexTrust ATM - Sector 21C,Faridabad,Sector 21C,On-site,Branch,3000000,2017-05-03,Active,2026-07-11
+287,ATM00287,71,ApexTrust ATM - Sector 15,Faridabad,Sector 15,Off-site,Branch,4000000,2021-03-29,Active,2026-07-11
+288,ATM00288,71,ApexTrust ATM - NIT,Faridabad,NIT,On-site,Branch,4000000,2023-05-14,Active,2026-07-11
+289,ATM00289,71,ApexTrust ATM - NIT,Faridabad,NIT,Off-site,Hospital,2000000,2022-04-02,Active,2026-07-11
+290,ATM00290,71,ApexTrust ATM - Ballabhgarh,Faridabad,Ballabhgarh,Off-site,Mall,3000000,2023-02-18,Active,2026-07-11
+291,ATM00291,71,ApexTrust ATM - Sector 21C,Faridabad,Sector 21C,On-site,Mall,5000000,2024-01-03,Active,2026-07-11
+292,ATM00292,72,ApexTrust ATM - Sector 21C,Faridabad,Sector 21C,On-site,Branch,2000000,2019-11-28,Active,2026-07-11
+293,ATM00293,72,ApexTrust ATM - Sector 21C,Faridabad,Sector 21C,On-site,Hospital,4000000,2023-09-19,Active,2026-07-11
+294,ATM00294,72,ApexTrust ATM - Sector 15,Faridabad,Sector 15,On-site,Branch,5000000,2020-06-30,Active,2026-07-11
+295,ATM00295,73,ApexTrust ATM - Ballabhgarh,Faridabad,Ballabhgarh,On-site,Branch,3000000,2016-09-25,Active,2026-07-11
+296,ATM00296,73,ApexTrust ATM - Ballabhgarh,Faridabad,Ballabhgarh,Off-site,Petrol Pump,5000000,2022-03-01,Active,2026-07-11
+297,ATM00297,74,ApexTrust ATM - Sector 21C,Faridabad,Sector 21C,Off-site,Branch,3000000,2020-01-25,Active,2026-07-11
+298,ATM00298,74,ApexTrust ATM - Sector 21C,Faridabad,Sector 21C,Off-site,Hospital,3000000,2019-05-07,Active,2026-07-11
+299,ATM00299,74,ApexTrust ATM - Sector 15,Faridabad,Sector 15,On-site,Branch,4000000,2019-10-08,Active,2026-07-11
+300,ATM00300,74,ApexTrust ATM - Sector 15,Faridabad,Sector 15,On-site,Hospital,5000000,2023-12-17,Active,2026-07-11
+301,ATM00301,75,ApexTrust ATM - Sector 15,Faridabad,Sector 15,Off-site,Metro Station,5000000,2015-04-04,Active,2026-07-11
+302,ATM00302,75,ApexTrust ATM - Sector 15,Faridabad,Sector 15,On-site,Mall,2000000,2024-02-29,Active,2026-07-11

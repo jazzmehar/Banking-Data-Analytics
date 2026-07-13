@@ -1,0 +1,114 @@
+BranchID,BranchName,BranchCode,IFSCCode,City,Region,Address,ManagerName,PhoneNumber,Email,OpeningDate,Status,BranchType
+1,ApexTrust Bank Delhi Branch 001,0001,ATBK00001,Delhi,Delhi NCR,"H.No. 34
+Kale Path",Pahal Desai,2698115042,delhi001@apextrustbank.com,2007-12-13,Active,Urban
+2,ApexTrust Bank Delhi Branch 002,0002,ATBK00002,Delhi,Delhi NCR,"42/957
+Shetty Nagar",Lila Kurian,5413456178,delhi002@apextrustbank.com,2016-03-09,Active,Urban
+3,ApexTrust Bank Delhi Branch 003,0003,ATBK00003,Delhi,Delhi NCR,"562
+Golla Circle",Mugdha Sridhar,8090428564,delhi003@apextrustbank.com,2014-12-06,Active,Metro
+4,ApexTrust Bank Delhi Branch 004,0004,ATBK00004,Delhi,Delhi NCR,"H.No. 14, Talwar Marg",Darpan Venkataraman,2235144147,delhi004@apextrustbank.com,2020-09-04,Active,Metro
+5,ApexTrust Bank Delhi Branch 005,0005,ATBK00005,Delhi,Delhi NCR,"25/333
+Ahuja Nagar",Oliver Rastogi,3768189819,delhi005@apextrustbank.com,2006-11-19,Active,Urban
+6,ApexTrust Bank Delhi Branch 006,0006,ATBK00006,Delhi,Delhi NCR,"34, Sharma Road",Dakshesh Dani,2779949770,delhi006@apextrustbank.com,2019-05-05,Active,Metro
+7,ApexTrust Bank Delhi Branch 007,0007,ATBK00007,Delhi,Delhi NCR,"14
+Sekhon",Ojas Mukherjee,5171754062,delhi007@apextrustbank.com,2021-12-11,Active,Metro
+8,ApexTrust Bank Delhi Branch 008,0008,ATBK00008,Delhi,Delhi NCR,"H.No. 915, Walia Zila",Mahika Mutti,6387990269,delhi008@apextrustbank.com,2008-02-07,Active,Urban
+9,ApexTrust Bank Delhi Branch 009,0009,ATBK00009,Delhi,Delhi NCR,"H.No. 91, Tank Nagar",Pratyush Khurana,5989459915,delhi009@apextrustbank.com,2013-06-30,Active,Metro
+10,ApexTrust Bank Delhi Branch 010,0010,ATBK00010,Delhi,Delhi NCR,"H.No. 342
+Shanker Chowk",Ekaja Chaudhuri,4292967464,delhi010@apextrustbank.com,2001-12-03,Active,Metro
+11,ApexTrust Bank Delhi Branch 011,0011,ATBK00011,Delhi,Delhi NCR,"90/20, Rajagopalan Nagar",Advaith Tak,8097281673,delhi011@apextrustbank.com,2017-10-12,Active,Urban
+12,ApexTrust Bank Delhi Branch 012,0012,ATBK00012,Delhi,Delhi NCR,"557, Sarna Zila",Ekantika Chanda,7069831039,delhi012@apextrustbank.com,2009-09-22,Active,Metro
+13,ApexTrust Bank Delhi Branch 013,0013,ATBK00013,Delhi,Delhi NCR,"49, Thakur Zila",Ishwar Joshi,3249677197,delhi013@apextrustbank.com,2006-11-20,Active,Metro
+14,ApexTrust Bank Delhi Branch 014,0014,ATBK00014,Delhi,Delhi NCR,"H.No. 102, Walla",Thomas Gara,5457941808,delhi014@apextrustbank.com,2003-05-13,Active,Urban
+15,ApexTrust Bank Delhi Branch 015,0015,ATBK00015,Delhi,Delhi NCR,"H.No. 616, Hegde Road",Advika Taneja,5292103093,delhi015@apextrustbank.com,2013-11-26,Active,Metro
+16,ApexTrust Bank Delhi Branch 016,0016,ATBK00016,Delhi,Delhi NCR,"H.No. 711, Bhalla",Forum Kulkarni,7749413000,delhi016@apextrustbank.com,2019-03-04,Active,Metro
+17,ApexTrust Bank Delhi Branch 017,0017,ATBK00017,Delhi,Delhi NCR,"77/021, Borah Marg",Jagrati Chadha,3913415288,delhi017@apextrustbank.com,2005-11-03,Active,Metro
+18,ApexTrust Bank Delhi Branch 018,0018,ATBK00018,Delhi,Delhi NCR,"776, Bhatnagar Ganj",Nachiket Dass,4730748262,delhi018@apextrustbank.com,2008-03-09,Active,Urban
+19,ApexTrust Bank Delhi Branch 019,0019,ATBK00019,Delhi,Delhi NCR,"H.No. 271, Lal Zila",Chakradev Kashyap,5480318672,delhi019@apextrustbank.com,2019-05-05,Active,Urban
+20,ApexTrust Bank Delhi Branch 020,0020,ATBK00020,Delhi,Delhi NCR,"34
+Guha Street",Urvi Chanda,5199342687,delhi020@apextrustbank.com,2009-10-24,Active,Metro
+21,ApexTrust Bank Delhi Branch 021,0021,ATBK00021,Delhi,Delhi NCR,"507
+Soni Ganj",Gunbir Pingle,7215745502,delhi021@apextrustbank.com,2009-01-18,Active,Metro
+22,ApexTrust Bank Delhi Branch 022,0022,ATBK00022,Delhi,Delhi NCR,"485
+Sen Circle",Faraj Palla,2214753282,delhi022@apextrustbank.com,2009-05-26,Active,Metro
+23,ApexTrust Bank Delhi Branch 023,0023,ATBK00023,Delhi,Delhi NCR,"H.No. 39
+Sagar Chowk",Laksh Hayre,2813481380,delhi023@apextrustbank.com,2003-04-13,Active,Metro
+24,ApexTrust Bank Delhi Branch 024,0024,ATBK00024,Delhi,Delhi NCR,"69/451
+Wagle Zila",Hemang Savant,8728685340,delhi024@apextrustbank.com,2002-03-03,Active,Urban
+25,ApexTrust Bank Delhi Branch 025,0025,ATBK00025,Delhi,Delhi NCR,"99, Sarma Zila",Vedant Kannan,4673218355,delhi025@apextrustbank.com,2004-03-17,Active,Metro
+26,ApexTrust Bank Delhi Branch 026,0026,ATBK00026,Delhi,Delhi NCR,"935
+Goel Chowk",Hemal Iyengar,7926822726,delhi026@apextrustbank.com,2013-12-07,Active,Urban
+27,ApexTrust Bank Delhi Branch 027,0027,ATBK00027,Delhi,Delhi NCR,"H.No. 900, Barad Path",Shravya Chawla,3851556473,delhi027@apextrustbank.com,2021-08-11,Active,Urban
+28,ApexTrust Bank Delhi Branch 028,0028,ATBK00028,Delhi,Delhi NCR,"972
+Barman Chowk",Daniel Babu,1292554671,delhi028@apextrustbank.com,2021-06-16,Active,Urban
+29,ApexTrust Bank Delhi Branch 029,0029,ATBK00029,Delhi,Delhi NCR,"83/21, Agate Street",Shivansh Batta,6289100681,delhi029@apextrustbank.com,2009-08-28,Active,Metro
+30,ApexTrust Bank Delhi Branch 030,0030,ATBK00030,Delhi,Delhi NCR,"31/653, Garde Zila",Tara Korpal,2885804101,delhi030@apextrustbank.com,2005-02-25,Active,Urban
+31,ApexTrust Bank Delhi Branch 031,0031,ATBK00031,Delhi,Delhi NCR,"00/603, Chaudry Marg",Bina Gopal,6302994819,delhi031@apextrustbank.com,2008-09-17,Active,Urban
+32,ApexTrust Bank Delhi Branch 032,0032,ATBK00032,Delhi,Delhi NCR,"H.No. 93
+Sarkar Street",Jagat Raman,1463872052,delhi032@apextrustbank.com,2018-09-04,Active,Metro
+33,ApexTrust Bank Delhi Branch 033,0033,ATBK00033,Delhi,Delhi NCR,"H.No. 255, Gola",Jeevika Butala,9370902628,delhi033@apextrustbank.com,2010-07-24,Active,Urban
+34,ApexTrust Bank Delhi Branch 034,0034,ATBK00034,Delhi,Delhi NCR,"H.No. 74
+Gour Street",Peter Koshy,0053831806,delhi034@apextrustbank.com,2007-07-10,Active,Metro
+35,ApexTrust Bank Delhi Branch 035,0035,ATBK00035,Delhi,Delhi NCR,"91/795, Minhas Chowk",Joshua Lata,8465195464,delhi035@apextrustbank.com,2004-07-01,Active,Metro
+36,ApexTrust Bank Noida Branch 001,0036,ATBK00036,Noida,Delhi NCR,"93
+Kunda Road",Ekalinga Shere,0963572189,noida001@apextrustbank.com,2005-03-24,Active,Metro
+37,ApexTrust Bank Noida Branch 002,0037,ATBK00037,Noida,Delhi NCR,"470
+Merchant Street",Bakhshi Ranganathan,8927042577,noida002@apextrustbank.com,2015-09-24,Active,Metro
+38,ApexTrust Bank Noida Branch 003,0038,ATBK00038,Noida,Delhi NCR,"53/755, De Street",Tanmayi Som,0611685031,noida003@apextrustbank.com,2021-12-09,Active,Metro
+39,ApexTrust Bank Noida Branch 004,0039,ATBK00039,Noida,Delhi NCR,"48
+Solanki Circle",Caleb Choudhury,3764102450,noida004@apextrustbank.com,2001-09-29,Active,Metro
+40,ApexTrust Bank Noida Branch 005,0040,ATBK00040,Noida,Delhi NCR,"H.No. 62
+Parikh Ganj",Harinakshi Zacharia,1742892738,noida005@apextrustbank.com,2017-12-06,Closed,Metro
+41,ApexTrust Bank Noida Branch 006,0041,ATBK00041,Noida,Delhi NCR,"15
+Narula Ganj",Garima Vaidya,8843307904,noida006@apextrustbank.com,2017-07-27,Active,Metro
+42,ApexTrust Bank Noida Branch 007,0042,ATBK00042,Noida,Delhi NCR,"10/593
+Ravel",Omisha Sibal,1928247741,noida007@apextrustbank.com,2023-04-15,Active,Metro
+43,ApexTrust Bank Noida Branch 008,0043,ATBK00043,Noida,Delhi NCR,"012
+Amble Path",Naksh Natt,1137937667,noida008@apextrustbank.com,2020-04-17,Active,Metro
+44,ApexTrust Bank Noida Branch 009,0044,ATBK00044,Noida,Delhi NCR,"61, Panchal Ganj",Kritika Rege,4101266367,noida009@apextrustbank.com,2018-07-18,Active,Metro
+45,ApexTrust Bank Noida Branch 010,0045,ATBK00045,Noida,Delhi NCR,"H.No. 41, Tiwari Ganj",Agastya Ranganathan,1205562039,noida010@apextrustbank.com,2005-03-27,Active,Metro
+46,ApexTrust Bank Noida Branch 011,0046,ATBK00046,Noida,Delhi NCR,"73/922
+Tata",Qabil Nanda,9235999076,noida011@apextrustbank.com,2014-04-18,Active,Metro
+47,ApexTrust Bank Noida Branch 012,0047,ATBK00047,Noida,Delhi NCR,"H.No. 457
+Master Chowk",Bina Brahmbhatt,6825323329,noida012@apextrustbank.com,2020-01-19,Active,Urban
+48,ApexTrust Bank Noida Branch 013,0048,ATBK00048,Noida,Delhi NCR,"08
+Bahri Ganj",Jagrati Ray,4900837929,noida013@apextrustbank.com,2011-08-10,Closed,Metro
+49,ApexTrust Bank Noida Branch 014,0049,ATBK00049,Noida,Delhi NCR,"29/15
+Krishnamurthy Circle",Wyatt Bhatt,2374683929,noida014@apextrustbank.com,2020-06-11,Active,Metro
+50,ApexTrust Bank Gurugram Branch 001,0050,ATBK00050,Gurugram,Delhi NCR,"11, Majumdar Marg",Kritika Kumar,6431681584,gurugram001@apextrustbank.com,2009-08-19,Active,Urban
+51,ApexTrust Bank Gurugram Branch 002,0051,ATBK00051,Gurugram,Delhi NCR,"65/82
+Saran Ganj",Henry Oza,4262591366,gurugram002@apextrustbank.com,2004-09-27,Active,Metro
+52,ApexTrust Bank Gurugram Branch 003,0052,ATBK00052,Gurugram,Delhi NCR,"99/482
+Barad Marg",Ganga Kalita,2405354927,gurugram003@apextrustbank.com,2011-06-21,Active,Metro
+53,ApexTrust Bank Gurugram Branch 004,0053,ATBK00053,Gurugram,Delhi NCR,"58/95, Wason Ganj",Sudiksha Ganesh,9789684601,gurugram004@apextrustbank.com,2004-08-15,Active,Urban
+54,ApexTrust Bank Gurugram Branch 005,0054,ATBK00054,Gurugram,Delhi NCR,"00/976, Tara Ganj",Aditya Batra,2862472991,gurugram005@apextrustbank.com,2009-09-03,Active,Urban
+55,ApexTrust Bank Gurugram Branch 006,0055,ATBK00055,Gurugram,Delhi NCR,"H.No. 586, Kapadia Nagar",Devika Chana,8554299468,gurugram006@apextrustbank.com,2017-04-18,Active,Metro
+56,ApexTrust Bank Gurugram Branch 007,0056,ATBK00056,Gurugram,Delhi NCR,"H.No. 954, Roy Marg",Nihal Vohra,9767193113,gurugram007@apextrustbank.com,2014-02-18,Active,Metro
+57,ApexTrust Bank Gurugram Branch 008,0057,ATBK00057,Gurugram,Delhi NCR,"36/38
+Dara Zila",Amruta Sagar,1461528488,gurugram008@apextrustbank.com,2007-04-03,Active,Metro
+58,ApexTrust Bank Gurugram Branch 009,0058,ATBK00058,Gurugram,Delhi NCR,"89, Mital Nagar",Tristan Gala,2859013163,gurugram009@apextrustbank.com,2005-09-06,Active,Urban
+59,ApexTrust Bank Gurugram Branch 010,0059,ATBK00059,Gurugram,Delhi NCR,"46/31, Narayan",Timothy Pandit,5501858077,gurugram010@apextrustbank.com,2007-03-01,Active,Metro
+60,ApexTrust Bank Gurugram Branch 011,0060,ATBK00060,Gurugram,Delhi NCR,"73/84
+Soman Chowk",Arin Lata,2158270927,gurugram011@apextrustbank.com,2015-11-05,Active,Metro
+61,ApexTrust Bank Gurugram Branch 012,0061,ATBK00061,Gurugram,Delhi NCR,"46, Bose Marg",Urvi Kala,3990806601,gurugram012@apextrustbank.com,2017-12-11,Active,Metro
+62,ApexTrust Bank Gurugram Branch 013,0062,ATBK00062,Gurugram,Delhi NCR,"492
+Lala Circle",Lakshit Dubey,1808838019,gurugram013@apextrustbank.com,2007-08-31,Closed,Urban
+63,ApexTrust Bank Gurugram Branch 014,0063,ATBK00063,Gurugram,Delhi NCR,"24/337, Nori Ganj",Bhanumati Desai,4930284744,gurugram014@apextrustbank.com,2012-01-11,Active,Metro
+64,ApexTrust Bank Ghaziabad Branch 001,0064,ATBK00064,Ghaziabad,Delhi NCR,"H.No. 607
+Choudhury Zila",Balendra Goel,5390275464,ghaziabad001@apextrustbank.com,2005-06-30,Active,Metro
+65,ApexTrust Bank Ghaziabad Branch 002,0065,ATBK00065,Ghaziabad,Delhi NCR,"34/38, Shah Ganj",Peter Srivastava,1873806127,ghaziabad002@apextrustbank.com,2006-03-26,Active,Metro
+66,ApexTrust Bank Ghaziabad Branch 003,0066,ATBK00066,Ghaziabad,Delhi NCR,"79, Seth Chowk",Rachita Dey,7089484616,ghaziabad003@apextrustbank.com,2021-09-11,Active,Urban
+67,ApexTrust Bank Ghaziabad Branch 004,0067,ATBK00067,Ghaziabad,Delhi NCR,"H.No. 463
+Sarkar Zila",Samaksh Prasad,8056004550,ghaziabad004@apextrustbank.com,2009-09-20,Active,Urban
+68,ApexTrust Bank Ghaziabad Branch 005,0068,ATBK00068,Ghaziabad,Delhi NCR,"50/210, Randhawa Path",Yatin Banerjee,2115187955,ghaziabad005@apextrustbank.com,2009-12-30,Active,Metro
+69,ApexTrust Bank Ghaziabad Branch 006,0069,ATBK00069,Ghaziabad,Delhi NCR,"H.No. 10, Bedi Ganj",Karan More,2435807235,ghaziabad006@apextrustbank.com,2003-06-02,Active,Metro
+70,ApexTrust Bank Faridabad Branch 001,0070,ATBK00070,Faridabad,Delhi NCR,"H.No. 86
+Khatri Ganj",Guneet Nori,4206320209,faridabad001@apextrustbank.com,2002-05-05,Active,Metro
+71,ApexTrust Bank Faridabad Branch 002,0071,ATBK00071,Faridabad,Delhi NCR,"18/95
+Subramaniam Nagar",Varsha Naik,5761521455,faridabad002@apextrustbank.com,2016-08-13,Active,Metro
+72,ApexTrust Bank Faridabad Branch 003,0072,ATBK00072,Faridabad,Delhi NCR,"85/461
+Randhawa Road",Yoshita Karpe,9143021645,faridabad003@apextrustbank.com,2012-11-12,Active,Metro
+73,ApexTrust Bank Faridabad Branch 004,0073,ATBK00073,Faridabad,Delhi NCR,"876
+Sen Chowk",Tripti Rajan,1804103390,faridabad004@apextrustbank.com,2016-05-06,Active,Metro
+74,ApexTrust Bank Faridabad Branch 005,0074,ATBK00074,Faridabad,Delhi NCR,"86/13, Batta Road",Madhavi Singhal,8880057950,faridabad005@apextrustbank.com,2006-03-09,Under Renovation,Metro
+75,ApexTrust Bank Faridabad Branch 006,0075,ATBK00075,Faridabad,Delhi NCR,"H.No. 372
+Konda Chowk",Neelima Vala,7793959447,faridabad006@apextrustbank.com,2020-02-02,Active,Urban
