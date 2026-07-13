@@ -122,3 +122,19 @@ Power BI Dashboard
 - Monthly Transaction Trend
 - Top Performing ATMs
 - Transaction Type Distribution
+
+---
+
+## Large Dataset
+
+The `transactions.csv` file (~200 MB) is not included in this repository because it exceeds GitHub's file size limit.
+
+You can generate it by running:
+
+- `notebooks/06_Transactions.ipynb`
+
+or
+
+- `python/transaction_generator.py`
+
+The generated dataset contains approximately 1 million realistic banking transactions.
