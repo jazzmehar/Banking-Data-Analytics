@@ -129,12 +129,8 @@ Power BI Dashboard
 
 The `transactions.csv` file (~200 MB) is not included in this repository because it exceeds GitHub's file size limit.
 
-You can generate it by running:
+You can generate it by running (the last part) in:
 
-- `notebooks/06_Transactions.ipynb`
-
-or
-
-- `python/transaction_generator.py`
+- `01_Customer_Data_Generation.ipynb`
 
 The generated dataset contains approximately 1 million realistic banking transactions.
