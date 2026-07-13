@@ -1,4 +1,4 @@
-#  ATM Transaction Performance Analytics
+#  Banking-Data-Analytics
 
 An end-to-end Banking Data Analytics project that simulates a realistic banking ecosystem using synthetic data generated with Python. The project demonstrates data engineering, SQL analysis, and business intelligence through an interactive Power BI dashboard.
 
